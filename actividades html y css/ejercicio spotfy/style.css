@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.tema span{
+    display: block;
+    width:100%;
+    font-size: 0,7rem;
+    color: rgb(130, 136, 132);
+}
+.tabla{
+    width: 100%;
+    border-collapse:100px;
+}
+ 
+.fecha_incorporación{
+    width: 100px;
+display: block;
+}
+th{
+    text-align: left;
+    background-color: rgb(60, 224, 60);
+}

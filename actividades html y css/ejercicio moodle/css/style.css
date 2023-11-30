@@ -1,0 +1,36 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1,h2{
+    color: orangered
+    ;
+font-size: 30px;}
+
+.barra_nav{
+color:yellow ;
+}
+
+.barra_nav {
+
+text-decoration: none;
+color: orangered;
+}
+
+.vinculo {
+
+color: orangered;
+background-color: transparent;
+text-decoration: none;
+}
+
+p.li{
+    font-size: 14px;
+}
+
+header, main{
+    border: 1px salmon;
+    border-collapse:collapse;
+    margin-bottom: 15px;
+}

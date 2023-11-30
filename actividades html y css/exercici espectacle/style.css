@@ -1,0 +1,56 @@
+.logo {
+    display: block;
+    margin: auto;
+    margin-right:auto;
+    width: 200px;
+    height: 2%;
+}
+ 
+body{
+    background-color:white ;
+}  
+h1{
+    text-align: left;
+    color: red;
+}
+th{
+    color: rgb(245, 6, 6);
+}
+h2{
+    color: red;
+
+}
+
+.tabla1 {
+   background-color: rgb(172, 167, 159);
+   font-weight: bolder;
+}
+
+
+.tabla1 td{ 
+    text-align: left;
+}
+
+.tabla1 .col1,
+.tabla1 .col2,
+.tabla2 .col1,
+.tabla2 .col2
+ {
+    width: 100px;
+    padding: 10px;
+}
+
+
+.tabla2 {
+    background-color: rgb(172, 167, 159);
+    font-weight: bolder;
+ }
+
+ MAIN{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+ 
