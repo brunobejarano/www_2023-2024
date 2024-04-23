@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    border-collapse: collapse;
+
+}
+
+main{
+  margin: 30px 30px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto  ;
+    gap: 30px;
+    padding: 20px 0px;
+    text-align: center;
+    
+  }
+
+.grid-container .arriba-i{
+  background-color: red;
+
+
+}
+.grid-container .arriba-d{
+  background-color: rgb(255, 230, 0);
+
+}
+
+.grid-container .abajo-i{
+  background-color: peru;
+  display: block;
+  font-size: small;
+}
+
+.grid-container .abajo-d{
+
+  background-color: blueviolet;
+  
+  
+  }
+
+  .grid-container .arriba-i .boton{
+  display: block;
+  top: 120px;
+  left: 523px;
+  Position: absolute;
+  
+  }
+
+  .grid-container .arriba-i .boton:hover{
+  background-color: rgb(255, 230, 0);
+  width: 43px;
+  height: 25px;
+  }
+
+  .grid-container .arriba-d .boton{
+
+    background-color: blueviolet;
+    display: block;
+    left: 500px;
+
+  }
+
